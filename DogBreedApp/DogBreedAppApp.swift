@@ -1,17 +1,10 @@
-//
-//  DogBreedAppApp.swift
-//  DogBreedApp
-//
-//  Created by ANDRAZ TULJAK on 18. 11. 24.
-//
-
 import SwiftUI
 
 @main
-struct DogBreedAppApp: App {
+struct DogBreedApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView() // The starting point of your app
         }
     }
 }
